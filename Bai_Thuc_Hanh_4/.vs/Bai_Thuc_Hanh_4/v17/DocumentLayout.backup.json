@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\bai_thuc_hanh_4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9C163-1EA0-4EE3-9D3B-1B22A7800593}|Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4.csproj|solutionrelative:bai_thuc_hanh_4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T08:32:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T08:19:23.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T04:08:04.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:50:37.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:37:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:32:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Program.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:28:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:21:03.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:18:10.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:17:03.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Course.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:15:46.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Learner.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:14:20.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_4\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Bai_Thuc_Hanh_4\\Models\\Major.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:12:44.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
