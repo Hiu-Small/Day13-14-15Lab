@@ -6,6 +6,16 @@
 <div class="ms-2 mx-2">
 	<h1>Learner List</h1>
 	@await Component.InvokeAsync("Major")
+	<!--Thêm form tìm kiếm-->
+	<form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
+		<div class="input-group">
+			<input id="keyword" class="form-control" name="keyword"
+				   type="text" placeholder="Search learner" />
+			<button id="btnSearch" class="btn btn-primary" type="button">
+				<i class="fas fa-search"></i>
+			</button>
+		</div>
+	</form>
 	<div id="content">
 		<table class="table table-striped">
 			<thead>
@@ -32,22 +42,70 @@
 				}
 			</tbody> 
 		</table>
+		<!--Thêm thanh nav-phân trang-->
+		<ul class="pagination">
+			@for (int i = 1; i <= ViewBag.pageNum; i++)
+			{
+				<li class="page-item" page="@i"
+					@(ViewBag.mid != null ? "mid='ViewBag.mid'" : "")
+					@(ViewBag.keyword != null ? "keyword='@ViewBag.keyword'" : "")>
+					<a class="page-link">@i</a>
+				</li>
+			}
+		</ul>
 	</div>
 	<a asp-action="Create" class="btn btn-primary">Create New Student</a>
 </div>
 
 @section Scripts {
-	<script>
-		$("li").click(function(e) {
-			var id = $(this).attr("id");
-			//alert(id);
+	<script> // thêm script ajax cho click vào page-item, nút search
+		$('body').on('click', 'li.page-item', function (e) {
+			var page = $(this).attr("page");
+			var mid = $(this).attr("mid");
+			var keyword = $(this).attr("keyword");
+			var data = { mid: mid, keyword: keyword, pageIndex: page };
 			$.ajax({
-				url: "/Learner/LearnerByMajorID",
-				data: { mid: id },
-				success: function(response) {
+				url: "LearnerFilter",
+				data: data,
+				success: function (response) {
 					$("div#content").html(response);
 				}
 			});
 		});
+
+		$(".nav li").click(function (e) {
+			var id = $(this).attr("id");
+			var data = { mid: id };
+			$.ajax({
+				url: "LearnerFilter",
+				data: data,
+				success: function (response) {
+					$("div#content").html(response);
+				}
+			});
+		});
+
+		$("#button#btnSearch").click(function (e) {
+			var keyword = $("#keyword").val();
+			var data = { keyword: keyword };
+			$.ajax({
+				url: "LearnerFilter",
+				data: data,
+				success: function (response) {
+					$("div#content").html(response);
+				}
+			});
+		});
+		// $("li").click(function(e) {
+		// 	var id = $(this).attr("id");
+		// 	//alert(id);
+		// 	$.ajax({
+		// 		url: "/Learner/LearnerByMajorID",
+		// 		data: { mid: id },
+		// 		success: function(response) {
+		// 			$("div#content").html(response);
+		// 		}
+		// 	});
+		// });
 	</script>
 }
